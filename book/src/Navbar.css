@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #FFA238;
+    color: white;
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.kalvium a {
+    color: black;
+}
